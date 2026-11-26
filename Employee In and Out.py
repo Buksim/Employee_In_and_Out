@@ -16,5 +16,5 @@ def Create_Obj():
     return obj
 
 print('Calling Create_Obj() function...')
-obj =   Create_Obj()
+obj1 =   Create_Obj()
 print('Program End...')
